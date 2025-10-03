@@ -1,0 +1,21 @@
+Name: Fatima
+Roll Number: 1282
+Email: fatima@gmail.com
+Department: CS
+Year: Fourth Year
+Extracurricular Activities: No
+---------------------------------------
+Name: asma
+Roll Number: 1283
+Email: asma@gmail.com
+Department: IT
+Year: Fourth Year
+Extracurricular Activities: Yes
+---------------------------------------
+Name: Zuha
+Roll Number: 1324
+Email: zuha@gmail.com
+Department: EE
+Year: Second Year
+Extracurricular Activities: No
+---------------------------------------
